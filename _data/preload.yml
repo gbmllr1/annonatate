@@ -1,4 +1,10 @@
 images:
+- added: '2024-03-15 08:54:31.125497'
+  iiif: true
+  thumbnail: https://fragmentarium.ms:443/loris/F-t6bi/fol_1r.jp2/full/120,/0/default.jpg
+  title: Antwerpen, Erfgoedbibliotheek Hendrik Conscience, Fragm. 217
+  url: https://fragmentarium.ms/metadata/iiif/F-t6bi/manifest.json
+  user: gbmllr1
 - added: '2024-03-15 08:54:19.330635'
   iiif: true
   thumbnail: https://iiif.kumu.swiss/gw11_0001258_20230213_001/full/120,/0/default.jpg
