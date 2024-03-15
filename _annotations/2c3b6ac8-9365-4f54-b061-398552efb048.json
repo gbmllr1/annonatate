@@ -1,0 +1,38 @@
+---
+canvas: "https://fragmentarium.ms/metadata/iiif/F-t6bi/canvas/F-t6bi/fol_1v.jp2.json"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The actual fragment",
+            "purpose": "commenting",
+            "creator": {
+                "id": "gbmllr1",
+                "name": "gbmllr1"
+            },
+            "created": "2024-03-15T08:55:52.701Z",
+            "modified": "2024-03-15T08:55:56.863Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://fragmentarium.ms/metadata/iiif/F-t6bi/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://fragmentarium.ms/metadata/iiif/F-t6bi/canvas/F-t6bi/fol_1v.jp2.json",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=249.90872192382812,258.2349853515625,1645.6755065917969,319.03240966796875"
+        }
+    },
+    "id": "2c3b6ac8-9365-4f54-b061-398552efb048.json",
+    "motivation": "commenting"
+}
